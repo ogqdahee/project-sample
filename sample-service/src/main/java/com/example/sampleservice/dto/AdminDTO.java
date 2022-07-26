@@ -7,6 +7,9 @@ public class AdminDTO {
     public AdminDTO(String name){
         this.name = name;
     }
+    public AdminDTO(){
+
+    }
 
     public String getName(){
         return this.name;

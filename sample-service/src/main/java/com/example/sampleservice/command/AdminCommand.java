@@ -7,6 +7,9 @@ public class AdminCommand {
     public AdminCommand(String name) {
         this.name = name;
     }
+    public AdminCommand(){
+
+    }
 
     public String getName(){
         return this.name;
