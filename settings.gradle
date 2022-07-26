@@ -1,0 +1,10 @@
+rootProject.name = 'sample-demo'
+include 'sample-service'
+include 'sample-controller'
+include 'sample-core'
+include 'sample-model'
+include 'sample-core'
+include 'sample-service'
+include 'sample-controller'
+include 'sample-gateway'
+
