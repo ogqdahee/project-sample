@@ -7,4 +7,6 @@ include 'sample-core'
 include 'sample-service'
 include 'sample-controller'
 include 'sample-gateway'
+include 'config'
+include 'sample-config'
 
